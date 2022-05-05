@@ -1,4 +1,4 @@
-// setting constants
+// setting const functions
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
