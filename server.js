@@ -13,3 +13,14 @@ const PORT = process.env.PORT || 3001;
 app.use(express.json());
 app.use(express.static('public'));
 app.use(express.urlencoded({ extended: true }));
+
+// Routes /notes to notes.html
+app.get('/notes', (req, res) => {
+    res.sendFile(path.join(__dirname, './public/notes.html'));
+});
+
+// Routes /index to index.html
+app.get('/index', (req, res) => {
+    res.sendFile(path.join(__dirname, "./public/index.html"));
+});
+
