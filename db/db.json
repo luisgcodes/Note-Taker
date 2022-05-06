@@ -1,16 +1,1 @@
-[
-    {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "title": "lgskdfj",
-        "text": "dfgsxfg",
-        "id": "4f5039d7-1167-4e70-8095-0ebc60585de3"
-    },
-    {
-        "title": "hi",
-        "text": "how are you\n",
-        "id": "43354bb3-9fcd-4279-9922-d2510f3c9c70"
-    }
-]
+[{"title":"Test Title","text":"Test text"},{"title":"To Do","text":"dishes","id":"1f66dd46-744d-417c-814f-df01b59ffcdd"},{"title":"To do","text":"cut grass","id":"21acab73-7b39-4647-9d05-4807e196f8e4"},{"title":"To DO","text":"Laundry","id":"bb7de422-f5ca-409d-96f6-1ef09fc4d722"}]
