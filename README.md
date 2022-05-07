@@ -8,6 +8,8 @@ A Node.js application built along with its server framework "Express.js". It is 
 - [Built With](#built-with)
 - [License](#license)
 
+## Deployment
+https://myfavnotetakingapp.herokuapp.com/notes
 ## Installation
 
 [Node.js](https://nodejs.org/en/download/) needs to be installed on your device.
